@@ -20,7 +20,7 @@ title                    : "ChopinFrog's"
 title_separator          : "-"
 subtitle                 : "Workspace"
 name                     : "ChopinFrog"
-description              : "ChopinFrog"
+description              : "ChopinFrog's Workspace"
 url                      : "https://chopinfrog.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "chopinlab/chopinlab.github.io"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "ChopinFrog"
   avatar           : "/assets/images/chopinfrog-image.jpg"                
-  bio              : "ChopinFrog"
+  bio              : "Android & IOS Developer"
   location         : "Hanoi Vietnam"
   email            :
   links:
