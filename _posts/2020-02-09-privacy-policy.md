@@ -12,7 +12,7 @@ published : true
 **-English-** <br/>
 **Privacy Policy** - **ChopinFrog**
 
-**1\. Purpose of Processing Personal Information** <br/><br/> 'ChopinFrog' processes personal information for the following purposes in the Android application "Circular Calculator" and is not used for purposes other than the following purposes.<br/>
+**1\. Purpose of Processing Personal Information** <br/><br/><br/> 'ChopinFrog' processes personal information for the following purposes in the Android application "Circular Calculator" and is not used for purposes other than the following purposes.<br/>
 -Android advertising ID for advertising
 
 **2\. Processing and Retention Period of Personal Information**
