@@ -75,7 +75,7 @@ Android mobile does not have direct access to the internal physical storage area
 ③ Encryption build
 Android Studio Build Tool's encryption technology (Signature Scheme v1, v2) is applied to protect the APK file from unauthorized changes.
 
----
+<hr>
 
 **-한국어-**<br/>
 **개인정보 취급방침**
