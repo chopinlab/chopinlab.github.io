@@ -1,5 +1,5 @@
 ---
-title : "[책 Review] #1. 좋은 선택 나쁜 선택"
+title : "개인정보 취급방침"
 category :
   - private
 tag :
