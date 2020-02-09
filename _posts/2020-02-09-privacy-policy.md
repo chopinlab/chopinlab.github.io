@@ -28,8 +28,7 @@ published : true
 **4\. Create an item of personal information to process**
 
 ① 'ChopinFrog' processes the following personal information items.
-
-We do not obtain special permission for personal information, nor do we use personal information other than Android advertising ID for advertising.
+-We do not obtain special permission for personal information, nor do we use personal information other than Android advertising ID for advertising.
 
 **5 \. Destruction of personal information *('ChopinFrog')* will destroy personal information without delay when the purpose of processing personal information is achieved. The procedures, deadlines and methods of destruction are as follows:**
 
@@ -55,7 +54,7 @@ chopin.lab@gmail.com <br/>
 ▶ Department in charge of privacy protection <br/>
 Department Name: Individual Developer <br/>
 Contact Person: ChopinFrog <br/>
-Contact: chopin.lab@gmail.com <br/>
+Contact: chopin.lab@gmail.com <br/><br/>
 ② The information subject can inquire the personal information protection officer and the department in charge regarding all personal information protection related inquiries, complaint handling, and damage relief that occurred while using the service (or business) of 'ChopinFrog'. 'ChopinFrog' will respond to and process information inquiries without delay.
 
 **8\. Privacy Policy Changes**
