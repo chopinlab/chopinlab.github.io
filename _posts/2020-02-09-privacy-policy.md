@@ -1,7 +1,7 @@
 ---
 title : "Privacy Policy(개인정보처리방침)"
 category :
-  - privacy
+  - private
 sidebar_main : false
 author_profile : false
 #header:
