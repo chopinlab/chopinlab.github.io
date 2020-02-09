@@ -9,45 +9,41 @@ author_profile : false
 published : true
 ---
 
+**-English-**
+**Privacy Policy** - **ChopinFrog**
+
 **1\. Purpose of Processing Personal Information** 'ChopinFrog' processes personal information for the following purposes in the Android application "Circular Calculator" and is not used for purposes other than the following purposes.
-- Android Advertising ID for delivery
+-Android advertising ID for advertising
 
 **2\. Processing and Retention Period of Personal Information**
 
-① 'ChopinFrog' processes and retains personal information within the period of possession and use of personal information agreed to when collecting personal information from the information subject or within the period of retention and use of personal information according to the law.
+'ChopinFrog' does not entrust the processing of personal information to other companies.
 
-② Specific personal information processing and retention period is as follows. <br/>
-☞ Refer to the example below and enter the retention period and related laws and grounds for personal information processing and personal information processing. <br/>
-(Example)-Customer registration and management: Until the service use contract or termination of membership, but in the case of remaining bond and debt relationship, until settlement of relevant bond and debt relationship
--Records of contract, subscription withdrawal, payment, goods, etc. in e-commerce: 5 years
-
-** 3 \. Rights of data subjects and legal representatives-obligations and how to exercise them As a personal information subject, users can exercise the following rights. **
+**3\. Rights of data subjects and legal representatives-obligations and how to exercise them As a personal information subject, users can exercise the following rights.**
 
 ① The data subject can exercise his / her rights related to privacy protection at any time for 'ChopinFrog'. <br/>
-One\. Personal Information Request <br/>
-2\. Request correction if there are errors <br/>
-3 \. Removal request <br/>
-4\. Treatment stop request
+1\. Request correction if there are errors <br/>
+2\. Removal request <br/>
 
-**4\. Create an item of personal information to process **
+**4\. Create an item of personal information to process**
 
 ① 'ChopinFrog' processes the following personal information items.
 
 We do not obtain special permission for personal information, nor do we use personal information other than Android advertising ID for advertising.
 
-** 5 \. Destruction of personal information * ('ChopinFrog') * will destroy personal information without delay when the purpose of processing personal information is achieved. The procedures, deadlines and methods of destruction are as follows: **
+**5 \. Destruction of personal information *('ChopinFrog')* will destroy personal information without delay when the purpose of processing personal information is achieved. The procedures, deadlines and methods of destruction are as follows:**
 
 Destruction procedure <br/>
-The information entered by the user is transferred to a separate DB (separate documents in the case of paper) after accomplishing the purpose, and stored or destroyed immediately for a period of time according to internal policies and other relevant laws. At this time, the personal information transferred to the DB will not be used for other purposes unless required by law.
+User-related personal information will be destroyed at the end of the app.
 
 -Destroyed <br/>
-If the personal information of the user becomes unnecessary within 5 days of the end of the retention period when the retention period of the personal information has elapsed, the personal information becomes unnecessary, such as achieving the purpose of processing the personal information, abolishing the service, or terminating the business. The personal information will be destroyed within 5 days from the date when the processing is deemed unnecessary.
+User-related personal information will be destroyed at the end of the app.
 
-** 6 \. Matters concerning installation, operation and rejection of automatic collection of personal information **
+**6 \. Matters concerning installation, operation and rejection of automatic collection of personal information**
 
-'ChopinFrog' does not use 'cookies' that store and retrieve the information subject's usage information.
+'ChopinFrog' does not use 'cookies' that store and retrieve the information subject's usage information from time to time.
 
-** 7 \. Create a Privacy Officer ** <br/>
+**7 \. Create a Privacy Officer** <br/>
 ① 'ChopinFrog' is responsible for the handling of personal information, and appoints the person in charge of personal information protection as follows to handle complaints and damages of information subjects related to personal information processing. <br/>
 ▶ Personal Information Manager <br/>
 Name: ChopinFrog <br/>
@@ -62,9 +58,28 @@ Contact Person: ChopinFrog <br/>
 Contact: chopin.lab@gmail.com <br/>
 ② The information subject can inquire the personal information protection officer and the department in charge regarding all personal information protection related inquiries, complaint handling, and damage relief that occurred while using the service (or business) of 'ChopinFrog'. 'ChopinFrog' will respond to and process information inquiries without delay.
 
-**8\. Privacy Policy Changes **
+**8\. Privacy Policy Changes**
 
 ① This personal information processing policy is applied from the effective date, and if there are additions, deletions and corrections according to the law and policy, we will notify you through the notice seven days before the enforcement of the changes.
+② This Privacy Policy applies from February 9, 2020.
+
+**9 \. Measures to ensure the safety of personal information**
+
+'ChopinFrog' takes technical, managerial and physical measures necessary to secure safety in accordance with Article 29 of the Personal Information Protection Act.
+
+① Restriction on access to personal information
+
+Personal information is used only when running the app, and is not sent / stored externally.
+
+③ Access control for unauthorized persons
+
+Android mobile does not have direct access to the internal physical storage area for personal information. This permission is used only at runtime. It is not sent / stored externally.
+
+④ Encryption build
+
+Android Studio Build Tool's encryption technology (Signature Scheme v1, v2) is applied to protect the APK file from unauthorized changes.
+
+---
 
 **-한국어-** 
 **개인정보 취급방침**
