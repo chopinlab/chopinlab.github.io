@@ -1,5 +1,5 @@
 ---
-title : "개인정보 취급방침"
+title : "Privacy Policy(개인정보 취급방침)"
 category :
   - private
 sidebar_main : false
@@ -12,7 +12,7 @@ published : true
 **-English-**
 **Privacy Policy** - **ChopinFrog**
 
-**1\. Purpose of Processing Personal Information** 'ChopinFrog' processes personal information for the following purposes in the Android application "Circular Calculator" and is not used for purposes other than the following purposes.
+**1\. Purpose of Processing Personal Information**<br/> 'ChopinFrog' processes personal information for the following purposes in the Android application "Circular Calculator" and is not used for purposes other than the following purposes.<br/>
 -Android advertising ID for advertising
 
 **2\. Processing and Retention Period of Personal Information**
@@ -33,7 +33,7 @@ We do not obtain special permission for personal information, nor do we use pers
 
 **5 \. Destruction of personal information *('ChopinFrog')* will destroy personal information without delay when the purpose of processing personal information is achieved. The procedures, deadlines and methods of destruction are as follows:**
 
-Destruction procedure <br/>
+-Destruction procedure <br/>
 User-related personal information will be destroyed at the end of the app.
 
 -Destroyed <br/>
