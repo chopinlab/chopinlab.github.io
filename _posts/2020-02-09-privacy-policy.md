@@ -7,8 +7,8 @@ tag :
   - application
 sidebar_main : false
 author_profile : false
-header:
-  overlay_color : "#6388F1"
+#header:
+#  overlay_color : "#6388F1"
 published : false
 ---
 
