@@ -60,7 +60,7 @@ Contact: chopin.lab@gmail.com <br/>
 
 **8\. Privacy Policy Changes**
 
-① This personal information processing policy is applied from the effective date, and if there are additions, deletions and corrections according to the law and policy, we will notify you through the notice seven days before the enforcement of the changes.
+① This personal information processing policy is applied from the effective date, and if there are additions, deletions and corrections according to the law and policy, we will notify you through the notice seven days before the enforcement of the changes.<br/>
 ② This Privacy Policy applies from February 9, 2020.
 
 **9 \. Measures to ensure the safety of personal information**
@@ -68,15 +68,12 @@ Contact: chopin.lab@gmail.com <br/>
 'ChopinFrog' takes technical, managerial and physical measures necessary to secure safety in accordance with Article 29 of the Personal Information Protection Act.
 
 ① Restriction on access to personal information
-
 Personal information is used only when running the app, and is not sent / stored externally.
 
-③ Access control for unauthorized persons
-
+② Access control for unauthorized persons
 Android mobile does not have direct access to the internal physical storage area for personal information. This permission is used only at runtime. It is not sent / stored externally.
 
-④ Encryption build
-
+③ Encryption build
 Android Studio Build Tool's encryption technology (Signature Scheme v1, v2) is applied to protect the APK file from unauthorized changes.
 
 ---
@@ -132,7 +129,8 @@ chopin.lab@gmail.com<br/>
 
 **8\. 개인정보 처리방침 변경**
 
-①이 개인정보처리방침은 시행일로부터 적용되며, 법령 및 방침에 따른 변경내용의 추가, 삭제 및 정정이 있는 경우에는 변경사항의 시행 7일 전부터 공지사항을 통하여 고지할 것입니다.
+① 이 개인정보처리방침은 시행일로부터 적용되며, 법령 및 방침에 따른 변경내용의 추가, 삭제 및 정정이 있는 경우에는 변경사항의 시행 7일 전부터 공지사항을 통하여 고지할 것입니다.
+
 ② 이 개인정보취급방침은 2020년 2월 9일부터 적용됩니다.
 
 **9\. 개인정보의 안전성 확보 조치**
@@ -140,13 +138,10 @@ chopin.lab@gmail.com<br/>
 ‘ChopinFrog’는 개인정보보호법 제29조에 따라 다음과 같이 안전성 확보에 필요한 기술적/관리적 및 물리적 조치를 하고 있습니다.
 
 ① 개인정보에 대한 접근 제한
-
 개인정보는 앱 실행시에만 사용하며, 외부로 전송/저장하지 않습니다.
 
-③ 비인가자에 대한 출입 통제
-
+② 비인가자에 대한 출입 통제
 안드로이드 모바일에서는 개인정보를 보관하고 있는 내부의 물리적 보관 장소에 직접 접근이 불가능합니다. 해당 권한은 실행시에만 사용되며, 외부로 전송/저장하지 않습니다.
 
-④ 암호화 빌드
-
+③ 암호화 빌드
 어플리케이션 제작시 안드로이드 스튜디오 빌드 툴의 암호화 기술(Signature Scheme v1,v2)을 적용하여 APK 파일을 무단으로 변경하지 못하도록 보호합니다.
