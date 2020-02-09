@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "ChopinFrog"
-  avatar           : "/assets/images/chopinfrog-image.jpg"
+  avatar           : "/assets/images/chopinfrog-image.jpg"                
   bio              : "ChopinFrog"
   location         : "Hanoi Vietnam"
   email            :
