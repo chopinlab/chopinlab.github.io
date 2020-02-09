@@ -1,7 +1,7 @@
 ---
-title : "Privacy Policy(개인정보처리방침)"
+title : "Privacy Policy(Circular Calculation)"
 category :
-  - private
+  - privacy
 sidebar_main : false
 author_profile : false
 #header:
