@@ -59,7 +59,7 @@ Contact: chopin.lab@gmail.com <br/><br/>
 
 **8\. Privacy Policy Changes**
 
-① This personal information processing policy is applied from the effective date, and if there are additions, deletions and corrections according to the law and policy, we will notify you through the notice seven days before the enforcement of the changes.<br/>
+① This personal information processing policy is applied from the effective date, and if there are additions, deletions and corrections according to the law and policy, we will notify you through the notice seven days before the enforcement of the changes.<br/><br/>
 ② This Privacy Policy applies from February 9, 2020.
 
 **9 \. Measures to ensure the safety of personal information**
@@ -81,7 +81,7 @@ Android Studio Build Tool's encryption technology (Signature Scheme v1, v2) is a
 **개인정보 취급방침**
 
 **1\. 개인정보의 처리 목적** 'ChopinFrog'는 안드로이드 어플리케이션 "둥글 계산기"에서 다음의 목적을 위하여 개인정보를 처리하고 있으며, 다음의 목적 이외의 용도로는 이용하지 않습니다.
-- 광고 송출을 위한 안드로이드 광고 ID
+-광고 송출을 위한 안드로이드 광고 ID
 
 **2\. 개인정보의 처리 및 보유 기간**
 
@@ -97,7 +97,7 @@ Android Studio Build Tool's encryption technology (Signature Scheme v1, v2) is a
 
 ① 'ChopinFrog'는 다음의 개인정보 항목을 처리하고 있습니다.
 
-개인정보 관련 특별한 permission을 획득하고 있지 않으며, 광고 송출을 위한 안드로이드 광고 ID 외에 개인정보 사용을 하고 있지 않습니다.
+-개인정보 관련 특별한 permission을 획득하고 있지 않으며, 광고 송출을 위한 안드로이드 광고 ID 외에 개인정보 사용을 하고 있지 않습니다.
 
 **5\. 개인정보의 파기*('ChopinFrog')*은(는) 원칙적으로 개인정보 처리목적이 달성된 경우에는 지체없이 해당 개인정보를 파기합니다. 파기의 절차, 기한 및 방법은 다음과 같습니다.**
 
@@ -111,7 +111,7 @@ Android Studio Build Tool's encryption technology (Signature Scheme v1, v2) is a
 
 'ChopinFrog'는 정보주체의 이용정보를 저장하고 수시로 불러오는 '쿠키'를 사용하지 않습니다.
 
-**7\. 개인정보 보호책임자 작성**<br/>
+**7\. 개인정보 보호책임자 작성**<br/><br/>
 ① 'ChopinFrog'는 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.<br/>
 ▶ 개인정보 보호책임자<br/>
 성명 : ChopinFrog<br/>
@@ -123,7 +123,7 @@ chopin.lab@gmail.com<br/>
 ▶ 개인정보 보호 담당부서<br/>
 부서명 : 개인 개발자<br/>
 담당자 : ChopinFrog<br/>
-연락처 : chopin.lab@gmail.com<br/>
+연락처 : chopin.lab@gmail.com<br/><br/>
 ② 정보주체께서는 'ChopinFrog'의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. 'ChopinFrog'는 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.
 
 **8\. 개인정보 처리방침 변경**
