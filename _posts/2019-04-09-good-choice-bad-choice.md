@@ -1,7 +1,7 @@
 ---
 title : "[책 Review] #1. 좋은 선택 나쁜 선택"
 category :
-  - private
+  - Book
 tag :
   - Data Science
   - hanbit
