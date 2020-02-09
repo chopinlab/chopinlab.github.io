@@ -2,9 +2,6 @@
 title : "개인정보 취급방침"
 category :
   - private
-tag :
-  - private
-  - application
 sidebar_main : false
 author_profile : false
 #header:
