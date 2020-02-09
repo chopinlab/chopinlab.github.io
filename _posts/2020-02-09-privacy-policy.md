@@ -43,7 +43,7 @@ User-related personal information will be destroyed at the end of the app.
 
 'ChopinFrog' does not use 'cookies' that store and retrieve the information subject's usage information from time to time.
 
-**7 \. Create a Privacy Officer** <br/>
+**7 \. Create a Privacy Officer** <br/><br/>
 ① 'ChopinFrog' is responsible for the handling of personal information, and appoints the person in charge of personal information protection as follows to handle complaints and damages of information subjects related to personal information processing. <br/>
 ▶ Personal Information Manager <br/>
 Name: ChopinFrog <br/>
