@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "Workspace"
 name                     : "ChopinFrog"
 description              : ""
-url                      : "https://chopinfrog.github.io"
+url                      : "https://chopinlab.github.io"
 baseurl                  : ""
 repository               : "chopinlab/chopinlab.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "ChopinFrog"
-  avatar           : "/assets/images/chopinfrog-image.jpg"                
+  avatar           : "/assets/images/chopinfrog-image.jpg"
   bio              : "Android & IOS Developer"
   location         : "Hanoi Vietnam"
   email            :
