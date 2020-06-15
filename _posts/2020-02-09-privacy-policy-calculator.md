@@ -1,5 +1,5 @@
 ---
-title : "Privacy Policy(개인정보처리방침)"
+title : "Circular Calculator - Privacy Policy(개인정보처리방침)"
 category :
   - privacy
 sidebar_main : false
@@ -46,15 +46,8 @@ User-related personal information will be destroyed at the end of the app.
 ① 'ChopinFrog' is responsible for the handling of personal information, and appoints the person in charge of personal information protection as follows to handle complaints and damages of information subjects related to personal information processing. <br/>
 ▶ Personal Information Manager <br/>
 Name: ChopinFrog <br/>
-Job Title: Personal Developer <br/>
-Job Title: Personal Developer <br/>
 chopin.lab@gmail.com <br/>
-※ You will be connected to the department in charge of personal information protection.
 
-▶ Department in charge of privacy protection <br/>
-Department Name: Individual Developer <br/>
-Contact Person: ChopinFrog <br/>
-Contact: chopin.lab@gmail.com <br/><br/>
 ② The information subject can inquire the personal information protection officer and the department in charge regarding all personal information protection related inquiries, complaint handling, and damage relief that occurred while using the service (or business) of 'ChopinFrog'. 'ChopinFrog' will respond to and process information inquiries without delay.
 
 **8\. Privacy Policy Changes**
@@ -114,15 +107,8 @@ Android Studio Build Tool's encryption technology (Signature Scheme v1, v2) is a
 ① 'ChopinFrog'는 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.<br/>
 ▶ 개인정보 보호책임자<br/>
 성명 : ChopinFrog<br/>
-직책 : 개인 개발자<br/>
-직급 : 개인 개발자<br/>
 chopin.lab@gmail.com<br/>
-※ 개인정보 보호 담당부서로 연결됩니다.
 
-▶ 개인정보 보호 담당부서<br/>
-부서명 : 개인 개발자<br/>
-담당자 : ChopinFrog<br/>
-연락처 : chopin.lab@gmail.com<br/><br/>
 ② 정보주체께서는 'ChopinFrog'의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. 'ChopinFrog'는 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.
 
 **8\. 개인정보 처리방침 변경**
