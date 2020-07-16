@@ -1,5 +1,5 @@
 ---
-title : "이용약관"
+title : "공무원 앱 '냥' 이용약관"
 category :
   - service
 sidebar_main : false
